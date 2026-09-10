@@ -1,7 +1,7 @@
 import MovieCard from "../Component/MovieCard";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 import { movies } from "../data";
-import React from "react";
+//import React from "react";
 import MovieGallery from "../Component/MovieGallery";
 
 function Home() {
